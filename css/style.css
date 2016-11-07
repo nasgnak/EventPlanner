@@ -1,0 +1,20 @@
+h1, h3 {
+	font-family: "Ubuntu", serif;
+	text-align: center;
+	text-transform: initial;
+	background-color: #3CBC8D;
+
+}
+
+body {
+	font-family: "Ubuntu", serif;
+	text-transform: lowercase;
+	background: lightgrey;
+}
+
+#registerModal{
+	font-family: "Ubuntu", serif;
+	width: 500px;
+	height: 300px;
+	background: lightgrey;
+}
